@@ -1,0 +1,3 @@
+﻿  topics.cpp
+C:\Users\admin\Desktop\app\main\topics.cpp(27,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.vcxproj -> C:\Users\admin\Desktop\app\x64\Debug\main.exe
