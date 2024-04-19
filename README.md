@@ -10,7 +10,7 @@
   - [Collaborators](#collaborators)
 
 ## 🔍 Description <a name="description"></a>
-
+<p> Our application strikes to improve students knowledge about history of the world , if you want to learn more you can chek out our <a href="https://github.com/IVAndreev21/YRT/wiki/Summary">wiki</a> </p>
 
 ## 📃 Documentation <a name="docs"></a>
 ### Code & Team Documentation
@@ -32,10 +32,10 @@
 <a href="[https://en.wikipedia.org]/"><img src="Documents/visual.png" alt="VS Icon" height="60"/></a>
 
 ### Programming languages & third-party libraries:
-<a href="https://en.wikipedia.org/"><img src="Documents/c++.png" alt="CPP Icon" height="60"/></a> <a href="https://raylib.handmade.network"><img src="Documents/Raylib_logo.png" alt="Raylib" height="60"/></a> 
+<a href="https://en.wikipedia.org/"><img src="Documents/c++.png" alt="CPP Icon" height="70"/></a> <a href="https://raylib.handmade.network"><img src="Documents/Raylib_logo.png" alt="Raylib" height="60"/></a> 
 
 ### Tools used for documentation, presentation & communication:
-<a href="https://www.microsoft.com/en-ww/microsoft-365/word?activetab=tabs%3afaqheaderregion3"><img src="Documents/word.png" alt="Word Icon" height="160"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/powerpoint"><img src="Documents/power_point.png" alt="PowerPoint Icon" height="60"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/excel"><img src="Documents/excel.png" alt="Excel Icon" height="60"/></a> 
+<a href="https://www.macupdate.com"><img src="Documents/word.png" alt="Word Icon" height="80"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/powerpoint"><img src="Documents/power_point.png" alt="PowerPoint Icon" height="60"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/excel"><img src="Documents/excel.png" alt="Excel Icon" height="60"/></a> 
 
 
 ## 🧑 Collaborators <a name="collaborators"></a>
