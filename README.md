@@ -10,7 +10,7 @@
   - [Collaborators](#collaborators)
 
 ## 🔍 Description <a name="description"></a>
-<p> Our application strikes to improve students knowledge about history of the world , if you want to learn more you can chek out our <a href="https://github.com/FHPopova21/Anthanta/wiki">wiki</a> </p>
+<p> Our application strikes to improve students knowledge about history of the world , if you want to learn more you can chek out our <a href="https://github.com/FHPopova21/school-project-assignment-anthanta/wiki">wiki</a> </p>
 
 ## 📃 Documentation <a name="docs"></a>
 ### Code & Team Documentation
