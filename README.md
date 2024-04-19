@@ -29,7 +29,7 @@
 
 ## 🖥️ Technologies used <a name="technologies"></a>
 ### IDE & version control system:
-<a href="https://www.qt.io/product/development-tools"><img src="resources/QT-logo.png" alt="qt creator" height="60"/></a> <a href="https://github.com/"><img src="resources/github-desktop-logo.png" alt="GitHub Icon" height="60"/></a> <a href="https://git-scm.com/"><img src="resources/git-icon.png" alt="Git" height="60"/></a>
+
 
 ### Programming languages & third-party libraries:
 <a href="https://cplusplus.com/"><img src="resources/cpp-icon.png" alt="CPP Icon" height="60"/></a> <a href="https://azure.microsoft.com/en-us"><img src="resources/azure-icon.jpg" alt="Azure Icon" height="60"/></a> <a href=""><img src="resources/SQL-logo.png" alt="SQL" height="60"/></a> <a href="https:://python.org"><img src="resources/Python-logo.png" alt="premake Icon" height="60"/></a> <a href="https://www.mysql.com/"><img src="resources/Mysql-logo.png" alt="mysql" height="60"/></a>
