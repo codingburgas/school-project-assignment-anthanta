@@ -37,9 +37,10 @@
 ### Tools used for documentation, presentation & communication:
 <a href="https://www.microsoft.com/en-ww/microsoft-365/word?activetab=tabs%3afaqheaderregion3"><img src="Documents/word.png" alt="Word Icon" height="160"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/powerpoint"><img src="Documents/power_point.png" alt="PowerPoint Icon" height="60"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/excel"><img src="Documents/excel.png" alt="Excel Icon" height="60"/></a> 
 
-### PARTNERS:
-<a href=""><img src="resources/BankLogo.png" alt="PowerPoint Icon" height="60"/></a>
-
 
 ## 🧑 Collaborators <a name="collaborators"></a>
-- [Filipa Popova](https://github.com/FHPopova21) - Scrum trainer 
+[Filipa Popova](https://github.com/FHPopova21) - Scrum trainer 
+[Dobril Peev](https://github.com/DDPeev21) - Backend
+[Kristina Zheleva](https://github.com/KMZheleva21) - Backend
+[Stilyan Gochev](https://github.com/SNGochev22) - Backend
+[Lychezar Gospodinov](https://github.com/LGGospodinov22) - Backend
