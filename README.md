@@ -42,7 +42,4 @@
 
 
 ## 🧑 Collaborators <a name="collaborators"></a>
-- [Ivan Andreev](https://github.com/IVAndreev21) - Scrum trainer 
-- [Boyan Kyovtorov](https://github.com/BKKyovtorov21) - Back-end Developer
-- [Dimitar Dimov](https://github.com/DRDimov21) - Front-end Developer
-- [Dobril Peev](https://github.com/DDpeev21) - Designer
+
