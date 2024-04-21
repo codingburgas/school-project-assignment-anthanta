@@ -32,7 +32,7 @@ void theTopics()
         // Check if the mouse is over the quiz button
         if (CheckCollisionPointRec(GetMousePosition(), quiz)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-                //runQuiz();
+                runQuiz();
                 CloseWindow();
             }
         }
