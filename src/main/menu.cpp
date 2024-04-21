@@ -39,7 +39,7 @@ void mainMenu() {
         // Check if the mouse is over the "Start" button
         if (CheckCollisionPointRec(GetMousePosition(), playButton)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-               
+                theTopics();
             }
         }
 
