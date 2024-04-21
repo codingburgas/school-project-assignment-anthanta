@@ -39,8 +39,8 @@
 
 
 ## 🧑 Collaborators <a name="collaborators"></a>
-<p>[Filipa Popova](https://github.com/FHPopova21) - Scrum trainer </p>
-<p>[Dobril Peev](https://github.com/DDPeev21) - Backend</p>
-<p>[Kristina Zheleva](https://github.com/KMZheleva21) - Backend</p>
-<p>[Stilyan Gochev](https://github.com/SNGochev22) - Backend</p>
-<p>[Lychezar Gospodinov](https://github.com/LGGospodinov22) - Backend</p>
+<p>[Filipa Popova](https://github.com/FHPopova21) - Backend developer </p>
+<p>[Dobril Peev](https://github.com/DDPeev21) - Backend developer</p>
+<p>[Kristina Zheleva](https://github.com/KMZheleva21) - Scrum trainer</p>
+<p>[Stilyan Gochev](https://github.com/SNGochev22) - Backend developer</p>
+<p>[Lychezar Gospodinov](https://github.com/LGGospodinov22) - Backend developer</p>
