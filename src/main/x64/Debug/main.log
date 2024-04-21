@@ -1,0 +1,4 @@
+﻿  quiz.cpp
+C:\Users\admin\Desktop\src\main\quiz.cpp(92,28): warning C4566: character represented by universal-character-name '\u202F' cannot be represented in the current code page (1252)
+C:\Users\admin\Desktop\src\main\quiz.cpp(92,168): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  main.vcxproj -> C:\Users\admin\Desktop\src\x64\Debug\main.exe
