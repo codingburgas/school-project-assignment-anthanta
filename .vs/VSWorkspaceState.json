@@ -2,8 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\main",
-    "\\src\\main\\Debug"
+    "\\src\\main"
   ],
   "SelectedNode": "\\src\\app.sln",
   "PreviewInSolutionExplorer": false
