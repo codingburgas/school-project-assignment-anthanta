@@ -25,7 +25,7 @@
 [Presentation]()
 
 ## 🚀 How to run <a name="install"></a>
-
+<p>To install our application you have to copy the repo</p>
 
 ## 🖥️ Technologies used <a name="technologies"></a>
 ### IDE & version control system:
