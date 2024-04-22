@@ -15,14 +15,14 @@
 ## 📃 Documentation <a name="docs"></a>
 ### Code & Team Documentation
 
-[Team Documentation]()
+[Team Documentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Project%20documentation.docx)
 
 ### QA Documentation
 [QA Documentation]()
   
 
 ### Presentation
-[Presentation]()
+[Presentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Project%20presentation.pptx)
 
 ## 🚀 How to run <a name="install"></a>
 <p>To install our application you have to copy the repo</p>
