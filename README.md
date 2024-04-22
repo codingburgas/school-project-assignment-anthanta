@@ -44,3 +44,5 @@
 <p>[Kristina Zheleva](https://github.com/KMZheleva21) - Scrum trainer</p>
 <p>[Stilyan Gochev](https://github.com/SNGochev22) - Backend developer</p>
 <p>[Lychezar Gospodinov](https://github.com/LGGospodinov22) - Backend developer</p>
+<p>[Stefan Ivanov](https://github.com/SBIvanov22) - Backend developer</p>
+
