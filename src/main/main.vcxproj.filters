@@ -30,6 +30,15 @@
     <ClCompile Include="topics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="history.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="geography.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="events.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
@@ -45,6 +54,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="quiz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="history.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geography.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="events.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -130,6 +130,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="events.cpp" />
+    <ClCompile Include="geography.cpp" />
+    <ClCompile Include="history.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="quiz.cpp" />
     <ClCompile Include="menu.cpp" />
@@ -137,6 +140,9 @@
     <ClCompile Include="topics.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="events.h" />
+    <ClInclude Include="geography.h" />
+    <ClInclude Include="history.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="menu.h" />
     <ClInclude Include="pch.h" />

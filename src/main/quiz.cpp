@@ -133,5 +133,4 @@ void runQuiz() {
         }
     }
 
-    CloseWindow();
 }

@@ -19,31 +19,44 @@ void theTopics()
         DrawText("History Quiz!", screenWidth / 2.1 - MeasureText("History Quiz", 30) + 40, 70, 55, BLACK);
 
         // Draw Quiz Option
-        Rectangle quiz = { block1X, blockY, 200, 70 };
-        DrawRectangleRec(quiz, SKYBLUE);
-        DrawText("Take Quiz", block1X + 20, blockY + 20, 30, WHITE);
+        Rectangle history = { block1X, blockY, 200, 70 };
+        DrawRectangleRec(history, SKYBLUE);
+        DrawText("History", block1X + 40, blockY + 20, 30, WHITE);
 
 
         // Draw Test Option
-        Rectangle test = { block2X, block2Y, 200, 70 };
-        DrawRectangleRec(test, BEIGE);
-        DrawText("Take Test", block2X + 20, block2Y + 20, 30, BLACK);
+        Rectangle geo = { block2X, block2Y, 200, 70 };
+        DrawRectangleRec(geo, SKYBLUE);
+        DrawText("Geography", block2X + 20, block2Y + 20, 30, WHITE);
+
+
+        Rectangle math = { block2X, block2Y + 150, 200, 70 };
+        DrawRectangleRec(math, SKYBLUE);
+        DrawText("Mathematics", block2X + 10, block2Y + 150 + 20, 30, WHITE);
 
         // Check if the mouse is over the quiz button
-        if (CheckCollisionPointRec(GetMousePosition(), quiz)) {
+        if (CheckCollisionPointRec(GetMousePosition(), history)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-                runQuiz();
+                //historyTopics();
                 CloseWindow();
             }
         }
 
         // Check if the mouse is over the test button
-        if (CheckCollisionPointRec(GetMousePosition(), test)) {
+        if (CheckCollisionPointRec(GetMousePosition(), geo)) {
+            if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
+            {
+                //runGeo();
+                CloseWindow();
+            }
+        }
+
+        if (CheckCollisionPointRec(GetMousePosition(), math)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
             {
 
                 //runTest();
-                CloseWindow();
+                //CloseWindow();
             }
         }
 
