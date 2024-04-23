@@ -15,14 +15,14 @@
 ## 📃 Documentation <a name="docs"></a>
 ### Code & Team Documentation
 
-[Team Documentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Project%20documentation.docx)
+[Team Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/ddpeev21_codingburgas_bg/Ec-c6syZjMVDnJCI7s3Uw00BQvnmmQNbyudvM2FD2Pg4lg?e=DEgV5L)
 
 ### QA Documentation
-[QA Documentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Anthanta_QA_Documentation.xlsx)
+[QA Documentation](https://codingburgas-my.sharepoint.com/:x:/g/personal/ddpeev21_codingburgas_bg/ERnC48FyGPFJvNcDn9b5RjIBxy9rvVdzHEW2V61qTtwhhQ?e=Rao972)
   
 
 ### Presentation
-[Presentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Project%20presentation.pptx)
+[Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/ddpeev21_codingburgas_bg/EVh3-NxeFPZPhXGDLC1miJsBH2FFuR8a1EfNFrDnyBv4VA?e=f1UgUA)
 
 ## 🚀 How to run <a name="install"></a>
 <p>To install our application you have to copy the repo</p>
