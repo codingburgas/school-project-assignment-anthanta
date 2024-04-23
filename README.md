@@ -18,7 +18,7 @@
 [Team Documentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Project%20documentation.docx)
 
 ### QA Documentation
-[QA Documentation]()
+[QA Documentation](https://github.com/codingburgas/school-project-assignment-anthanta/blob/main/Documents/Anthanta_QA_Documentation.xlsx)
   
 
 ### Presentation
