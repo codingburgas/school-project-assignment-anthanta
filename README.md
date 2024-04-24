@@ -2,6 +2,13 @@
 
 <div align="center"> <img src="Documents/Assets/logo.png" alt="Anthanta" /> </div>
 
+<p align = "center">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codingburgas/school-project-assignment-anthanta?style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/codingburgas/school-project-assignment-anthanta?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/codingburgas/school-project-assignment-anthanta?style=flat-square">
+  <img src="https://img.shields.io/github/languages/count/codingburgas/school-project-assignment-anthanta?style=flat-square">
+</p> 
+
 ## 📋 Table of contents
   - [Description](#description)
   - [Documentation](#docs)
@@ -29,13 +36,20 @@
 
 ## 🖥️ Technologies used <a name="technologies"></a>
 ### IDE & version control system:
-<a href="[https://en.wikipedia.org]/"><img src="Documents/Assets/visual.png" alt="VS Icon" height="60"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" alt="Visual Studio 2019"/></a>
 
 ### Programming languages & third-party libraries:
-<a href="https://en.wikipedia.org/"><img src="Documents/Assets/c++.png" alt="CPP Icon" height="70"/></a> <a href="https://raylib.handmade.network"><img src="Documents/Assets/Raylib_logo.png" alt="Raylib" height="60"/></a> 
+<p align="left"> 
+  <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
+  <img src="Documents/Assets/Raylib_logo.png" alt="Raylib" height="48"/></a> 
+</p> <a href="https://raylib.handmade.network">
 
 ### Tools used for documentation, presentation & communication:
-<a href="https://www.macupdate.com"><img src="Documents/Assets/word.png" alt="Word Icon" height="80"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/powerpoint"><img src="Documents/Assets/power_point.png" alt="PowerPoint Icon" height="60"/></a> <a href="https://www.microsoft.com/en-ww/microsoft-365/excel"><img src="Documents/Assets/excel.png" alt="Excel Icon" height="60"/></a> 
+<p align="left"> 
+  <a href="https://www.microsoft.com/en-ww/microsoft-365/word"><img src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" alt="MS Word logo" width=48px /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" alt="MS PowerPoint logo" width=48px />
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="MS Excel logo"/></a>
+</p>  
 
 
 ## 🧑 Collaborators <a name="collaborators"></a>
