@@ -57,7 +57,7 @@ void Question::askQuestion()
 
     DrawText(question.c_str(), screenWidth - 1200, 70, 45, BLACK);
 
-    // Draw four blocks with answers
+    // Four blocks with answers
     DrawRectangle(block1X, block1Y, blockSizeX, blockSizeY, SKYBLUE);
     DrawText(Answer_1.c_str(), block1X + 20, block1Y + 20, 20, BLACK);
 
@@ -96,14 +96,16 @@ void runQuiz() {
 
 
     int currentQuestionIndex = 0;
+    bool allQuestionsAnswered = false;
 
-    while (!WindowShouldClose()) {
+    while (!WindowShouldClose() && !allQuestionsAnswered) {
         BeginDrawing();
         ClearBackground(WHITE);
 
- 
+        // Display current question
         questions[currentQuestionIndex].askQuestion();
 
+        // Display total score
         DrawText(("Total Score: " + std::to_string(total) + "/100").c_str(), 10, 20, 20, BLACK);
 
         EndDrawing();
@@ -124,13 +126,22 @@ void runQuiz() {
             else if (mouseY >= block4Y && mouseY <= block4Y + blockSizeY && mouseX >= block4X && mouseX <= block4X + blockSizeX) {
                 guess = 4;
             }
+
+            // Move to the next question
             currentQuestionIndex++;
 
-
+            // Check if all questions have been answered
             if (currentQuestionIndex >= 10) {
-                theTopics();
+                allQuestionsAnswered = true;
+                if (IsKeyPressed(KEY_DOWN))
+                {
+                    theTopics();
+                }
             }
         }
     }
-
+    if (IsKeyPressed(KEY_ESCAPE))
+    {
+        theTopics();
+    }
 }

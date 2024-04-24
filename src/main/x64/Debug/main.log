@@ -1,3 +1,2 @@
-﻿  topics.cpp
-C:\Users\admin\source\repos\school-project-assignment-anthanta\src\main\topics.cpp(19,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+﻿  events.cpp
   main.vcxproj -> C:\Users\admin\source\repos\school-project-assignment-anthanta\src\x64\Debug\main.exe

@@ -8,7 +8,7 @@ void theTopics()
     const int block1X = screenWidth / 2 - 200 / 2;
     const int block2X = screenWidth / 2 - 200 / 2;
     const int blockY = screenHeight / 2 - 80 - 50;
-    const int block2Y = screenHeight / 2 + 50;
+    const int block2Y = screenHeight / 2 + 0;
 
     while (!WindowShouldClose())
     {
@@ -16,7 +16,7 @@ void theTopics()
 
         ClearBackground(WHITE);
 
-        DrawText("History Quiz!", screenWidth / 2.1 - MeasureText("History Quiz", 30) + 40, 70, 55, BLACK);
+        DrawText("Choose subject", screenWidth / 2.1 - MeasureText("History Quiz", 30) + 40, 70, 55, BLACK);
 
         // Draw Quiz Option
         Rectangle history = { block1X, blockY, 200, 70 };
@@ -34,33 +34,33 @@ void theTopics()
         DrawRectangleRec(math, SKYBLUE);
         DrawText("Mathematics", block2X + 10, block2Y + 150 + 20, 30, WHITE);
 
-        // Check if the mouse is over the quiz button
+        // Check if the mouse is over the history button
         if (CheckCollisionPointRec(GetMousePosition(), history)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-                //historyTopics();
+                historyTopics(); 
                 CloseWindow();
             }
         }
 
-        // Check if the mouse is over the test button
+        // Check if the mouse is over the geo button
         if (CheckCollisionPointRec(GetMousePosition(), geo)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
             {
-                //runGeo();
+                //runGeo(); 
                 CloseWindow();
             }
         }
 
+        // Check if the mouse is over the math button
         if (CheckCollisionPointRec(GetMousePosition(), math)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
             {
-
-                //runTest();
-                //CloseWindow();
+                //runTest(); 
+                CloseWindow();
             }
         }
 
         EndDrawing();
     }
-
+    CloseWindow();
 }
