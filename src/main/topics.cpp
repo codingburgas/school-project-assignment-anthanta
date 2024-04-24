@@ -46,7 +46,7 @@ void theTopics()
         if (CheckCollisionPointRec(GetMousePosition(), geo)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
             {
-                //runGeo(); 
+                runGeo(); 
                 CloseWindow();
             }
         }

@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\main"
   ],
+  "SelectedNode": "\\src\\main\\geography.h",
   "PreviewInSolutionExplorer": false
 }
