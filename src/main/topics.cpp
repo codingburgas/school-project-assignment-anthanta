@@ -55,7 +55,7 @@ void theTopics()
         if (CheckCollisionPointRec(GetMousePosition(), math)) {
             if (IsMouseButtonPressed(MOUSE_LEFT_BUTTON))
             {
-                //runTest(); 
+                runTest(); 
                 CloseWindow();
             }
         }
